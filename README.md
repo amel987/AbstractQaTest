@@ -1,13 +1,8 @@
 
 ## Use
 
-*prerequisites
-Download and Install NodeJS 
-Download and install Visual Studio Code
 
-
-create package.json  `npm init`
-Install cypress with `npm install cypress --save-dev`
+Install all dependencies with `npm install`
 
 
 
