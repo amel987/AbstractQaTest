@@ -17,9 +17,6 @@ describe("Abstract WebUI test", () => {
     pe.SelectLinkThisWeek()
     pe.SelectDateRange({timeout:3000})
 
-
-   
-
       cy.get('[aria-label="star"]')
       .parent()
       .filter((k, el) => {
